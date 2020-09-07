@@ -6,7 +6,7 @@
 //  Copyright © 2020 Adwait Barkale. All rights reserved.
 //
 
-//This is Code done manually to user pod remove comments on line 12,30 and install SDWebImage Pod
+//This is Code done manually, To use pod remove comments on line 12,30 and install SDWebImage Pod
 
 import UIKit
 //import SDWebImage
